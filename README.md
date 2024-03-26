@@ -14,4 +14,4 @@ Raw data and processed data will be available in NIH GEO repositories upon publi
 ***
 
  ### How to cite
- > Details will be made available soon.
+Li RG, Li X, Morikawa Y, Grisanti-Canozo FJ, Meng F, Tsai CR, Zhao Y, Liu L, Kim J, Xie B, Klysik E, Liu S, Samee MAH, Martin JF. YAP induces a neonatal-like pro-renewal niche in the adult heart. Nat Cardiovasc Res. 2024 Mar;3(3):283-300. doi: 10.1038/s44161-024-00428-w. Epub 2024 Feb 14. PMID: 38510108; PMCID: PMC10954255.
