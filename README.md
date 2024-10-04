@@ -9,7 +9,7 @@ The computational framework includes:
 
 ### Availability of data
 
-Raw data and processed data will be available in NIH GEO repositories upon publication.
+All raw and processed sequencingdata are deposited at the National Center for Biotechnology Information’s Gene Expression Omnibus (GEO): GSE217828 and GSE152856.
 
 ***
 
